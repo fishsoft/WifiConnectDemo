@@ -1,4 +1,4 @@
-package com.example.testwifi;
+package com.morse.wifi;
 
 import android.app.Activity;
 import android.os.Bundle;
